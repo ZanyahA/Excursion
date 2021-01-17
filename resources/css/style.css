@@ -1,0 +1,59 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+}
+
+header h2 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+header p {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+section {
+    text-align: center;
+}
+
+section h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#underline p {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
+}
+
+main {
+    text-align: center;
+}
+
+main h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+main p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
